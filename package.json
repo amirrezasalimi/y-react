@@ -43,8 +43,9 @@
     "@rollup/plugin-node-resolve": "^13.0.4",
     "@rollup/plugin-typescript": "^8.2.5",
     "@semantic-release/git": "^9.0.0",
-    "@testing-library/react": "^12.0.0",
-    "@testing-library/react-hooks": "^7.0.1",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/user-event": "^14.4.3",
     "@types/jest": "^27.0.1",
     "@types/react": "^17.0.19",
     "babel-jest": "^27.0.6",
@@ -59,7 +60,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "y-indexeddb": "^9.0.6",
     "y-protocols": "^1.0.5",
     "y-webrtc": "^10.2.0",
